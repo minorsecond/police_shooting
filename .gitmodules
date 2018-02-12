@@ -1,0 +1,4 @@
+[submodule "data/data-police-shootings"]
+	path = data/data-police-shootings
+	url = https://github.com/washingtonpost/data-police-shootings.git
+	branch = master
